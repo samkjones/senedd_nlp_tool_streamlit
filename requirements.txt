@@ -1,0 +1,8 @@
+streamlit
+streamlit-sortables
+sentence-transformers
+scikit-learn
+pandas
+pdfplumber
+nltk
+spacy
