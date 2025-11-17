@@ -1,0 +1,21 @@
+id,organisation,question,score,quotes,language
+1,OpenAI,How do you ensure data privacy?,0.86,Our team prioritizes transparency in data handling.,English
+2,Google,How do you ensure data privacy?,0.1,Our team prioritizes transparency in data expenses.,Welsh
+3,OpenAI,What are your key performance indicators?,0.21,Customer satisfaction rates guide our improvements.,English
+4,Apple,What is the main goal of your project?,0.4,Scaling infrastructure efficiently is a core objective.,English
+5,OpenAI,What are your key performance indicators?,0.71,We track engagement metrics to measure success.,English
+6,Microsoft,How do you ensure data privacy?,0.54,Data encryption is applied at all levels.,Welsh
+7,Google,Can you describe your innovation strategy?,0.4,Collaborations foster breakthrough technology development.,Welsh
+8,Apple,How do you ensure data privacy?,0.33,User consent is a mandatory step in our process.,English
+9,Amazon,What are your key performance indicators?,0.28,Delivery speed and accuracy are constantly monitored.,English
+10,Apple,How do you ensure data privacy?,0.57,Strict access controls protect sensitive information.,English
+11,Apple,What is the main goal of your project?,0.92,Enhancing user experience drives our roadmap.,English
+12,Google,Can you describe your innovation strategy?,0.57,We invest heavily in research and development.,English
+13,Google,Can you describe your innovation strategy?,0.74,Adopting agile methodologies speeds up iteration.,English
+14,Apple,How do you ensure data privacy?,0.81,Data anonymization techniques are widely used.,English
+15,Apple,What are your key performance indicators?,0.8,Market share growth is a critical KPI.,English
+16,Microsoft,What are your key performance indicators?,0.54,We monitor system uptime to ensure reliability.,English
+17,Google,How do you handle customer feedback?,0.28,Feedback loops are integrated into product cycles.,English
+18,Amazon,How do you handle customer feedback?,0.25,Customer reviews directly influence feature updates.,English
+19,Google,What are your key performance indicators?,0.73,Retention rates are analyzed monthly.,English
+20,Google,Can you describe your innovation strategy?,0.77,Open-source contributions accelerate development.,English

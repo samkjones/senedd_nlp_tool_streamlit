@@ -1,0 +1,13 @@
+id,organisation,language,question,quotes,score
+1,ICE Wales,English,Question 1,There are three main priorities.,0.81
+2,ICE Wales,English,Question 1,"First, investment in infrastructure.",0.63
+3,ICE Wales,English,Question 1,"Second, improving skills.",0.31
+4,ICE Wales,English,Question 1,"Third, sustainability is key.",0.79
+5,ICE Wales,English,Question 2,We must focus on renewable energy.,0.82
+6,ICE Wales,English,Question 2,The rate of adoption is increasing rapidly.,0.53
+7,ICE Wales,English,Question 3,This should be 100% relevant.,1.0
+8,Bevan Foundation,Welsh,Question 1,Climate change impacts flood risk management significantly.,0.89
+9,Bevan Foundation,Welsh,Question 1,Adaptation is needed in coastal areas.,0.62
+10,Bevan Foundation,Welsh,Question 2,Electric vehicle charging infrastructure must be expanded across Wales.,0.9
+11,Bevan Foundation,Welsh,Question 2,Alternative energy sources such as hydrogen should be developed.,0.63
+12,Bevan Foundation,Welsh,Question 3,This should also be 100% relevant.,1.0
