@@ -9,7 +9,8 @@ st.set_page_config(layout="wide")
 @st.cache_resource
 def load_model():
     """Load and cache the SentenceTransformer model from local path."""
-    return SentenceTransformer("./local_model")
+    #return SentenceTransformer("./local_model")
+    return SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load model into session state to avoid reloading
 if "model" not in st.session_state:
@@ -85,3 +86,4 @@ else:
     # Prompt user to upload data
     st.info("Please upload PDF(s) or CSV file to continue.")
     st.stop()  # Prevent execution until valid data is uploaded
+
