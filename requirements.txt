@@ -6,5 +6,3 @@ pandas
 pdfplumber
 nltk
 spacy
-torch
-transformers
